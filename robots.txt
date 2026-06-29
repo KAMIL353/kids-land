@@ -1,0 +1,9 @@
+# robots.txt for KIDSLAND (Tomorrow's World)
+# INSTRUCTIONS: Replace 'https://www.yourdomain.com' with your actual live domain name.
+
+User-agent: *
+Allow: /
+Disallow: /assets/   # Prevents direct directory listing of assets if indexed, but keeps files available
+
+# Sitemap Location
+Sitemap: https://www.yourdomain.com/sitemap.xml
