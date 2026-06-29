@@ -17,7 +17,7 @@ The visual identity must match the bright, modern, and trustworthy feel of the p
   - Conversion Accent: WhatsApp Green (#25D366) strictly reserved for primary call-to-action buttons.
   - Accents: Multi-color playful indicators (Red, Green, Yellow, Orange) mirroring the small icons on the physical storefront sign.
 - **Typography:** Bold, rounded, premium-feeling sans-serif headers for a kid-friendly yet high-end look, paired with highly legible body text.
-- **Vibe:** Clean, multi-story digital showroom vibe, representing the impressive 3-story physical store structure shown in "6179464337374776855.jpg".
+- **Vibe:** Clean, multi-story digital showroom vibe, representing the impressive 2-story physical store structure shown in "store.jpg".
 
 ---
 
@@ -27,7 +27,7 @@ All communication anchors must utilize the real-world contact data verified from
 - **Primary WhatsApp API Number:** 
   - +94761492555 (Base URL: https://wa.me/94761492555)
 - **Secondary Reference Numbers (For Footer Display only):** 
-  - 0771031819, 0776474410, 0775708134
+  - 0776474410, 0775708134
 - **Floating WhatsApp Widget:** A persistent, pulsing WhatsApp icon must remain fixed at the bottom right of the screen across all devices, acting as a global quick-chat function.
 
 ---
@@ -53,7 +53,7 @@ The web app must dynamically categorize and feature the specific product lines h
 
 ## 2. Hero Section (Digital Showroom Entry)
 - A striking background layout blending sleek blue geometric patterns with high-quality illustrations of premium items (Ride-on jeep, premium crib, modern stroller, kid's sports bike) as composed in "6179464337374776855.jpg".
-- Clear value proposition text: "Discover Tomorrow's World Today – Eravur's Premier 3-Story Destination for Premium Toys & Baby Essentials."
+- Clear value proposition text: "Discover Tomorrow's World Today – Eravur's Premier 2-Story Destination for Premium Toys & Baby Essentials."
 - Double Call-to-Action: [Explore Collection] and [WhatsApp Inquiry].
 
 ## 3. The "Interactive Age & Gift Guide" (WhatsApp Funnel)
@@ -73,8 +73,8 @@ To make the application interactive and engaging, build a multi-step guided ques
 - **Product-Specific WhatsApp CTA:** Every single product card must have an "Inquire Now" button featuring the WhatsApp logo. When clicked, it must send a pre-filled message: *"Hi Kidsland, I am inquiring about the [Insert Product Name] I saw on your website. Is it currently available?"*
 
 ## 5. Store Promotion & Trust Section
-- A dedicated banner displaying an architectural vector or stylized image block representing the 3-story physical store layout visible in "6179464337374776855.jpg".
-- Text highlighting: "Visit us at Main Street, Eravur to explore three entire floors dedicated to your child's happiness. Or send us a message on WhatsApp for instant assistance."
+- A dedicated banner displaying the storefront layout visible in "store.jpg".
+- Text highlighting: "Visit us at Main Street, Eravur to explore two entire floors dedicated to your child's happiness. Or send us a message on WhatsApp for instant assistance."
 - Embedded interactive Google Map placeholder pointing to Main Street, Eravur.
 
 ## 6. Layout-Rich Footer
