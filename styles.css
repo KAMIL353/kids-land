@@ -1246,6 +1246,19 @@ footer {
   gap: 16px;
 }
 
+.footer-credit-link {
+  color: #38BDF8;
+  font-weight: 600;
+  border-bottom: 1px dashed #38BDF8;
+  transition: all var(--transition-fast);
+}
+
+.footer-credit-link:hover {
+  color: var(--secondary);
+  border-bottom-color: transparent;
+  text-shadow: 0 0 8px rgba(56, 189, 248, 0.4);
+}
+
 /* --- Floating WhatsApp Widget --- */
 .floating-whatsapp {
   position: fixed;
