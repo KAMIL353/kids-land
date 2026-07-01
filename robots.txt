@@ -4,5 +4,6 @@ User-agent: *
 Allow: /
 Disallow: /assets/   # Prevents direct directory listing of assets if indexed, but keeps files available
 
-# Sitemap Location
+# Sitemap Locations
 Sitemap: https://kids-land-rosy.vercel.app/sitemap.xml
+Sitemap: https://kids-land-rosy.vercel.app/sitemap.txt
